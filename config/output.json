@@ -1,0 +1,14 @@
+{
+	"c" : "CN",
+	"cn":"Common Name",
+	"emailAddress":"dchu02844@sina.com",
+
+	"issuer_id":"c62156b2-9267-4130-b346-1087482cd34a",
+	"key_id" : "72AV4FVQZD",				
+	"private_key":"AuthKey_72AV4FVQZD.p8",
+	
+	"fileName":"cert3",
+
+	"bundleidentifier" : [{"bundleidName":"testBundleid1","bundleId":"test.hy.r11"},
+						  {"bundleidName":"testBundleid2","bundleId":"test.hy.r121"}]
+}

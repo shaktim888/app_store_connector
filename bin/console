@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+# -*- encoding: utf-8 -*-
+# frozen_string_literal: true
+require 'bundler/setup'
+require 'my_app_store_connect/createcert/config_store'
+# require 'createcert/delete_store'
+config_store
